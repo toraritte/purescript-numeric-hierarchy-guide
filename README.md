@@ -1,4 +1,4 @@
-Annotations to Harry Garrood's [A Guide to the PureScript Numeric Hierarchy](https://a-guide-to-the-purescript-numeric-hierarchy.readthedocs.io/en/latest/). Posted at toraritte.github.io
+Annotations to Harry Garrood's [A Guide to the PureScript Numeric Hierarchy](https://a-guide-to-the-purescript-numeric-hierarchy.readthedocs.io/en/latest/). Published at https://annotated-a-guide-to-the-purescript-numeric-hierarchy.readthedocs.io/en/latest/
 
 To build from this repo on Ubuntu:
 
